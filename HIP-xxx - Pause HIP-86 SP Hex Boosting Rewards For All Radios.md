@@ -10,7 +10,7 @@
 
 ## Summary
 
-This HIP aims to pause and remove Service Provider Hex Boosting that was passed in HIP-84, to be completely reworked with current avaiable equipment that was not avaiable previously in mind and new economics to better scale with nationwide and beyond.   
+This HIP aims to pause and remove Service Provider Hex Boosting that was passed in HIP-84, to be completely reworked with current available equipment that was not available previously in mind and new economics to better scale with nationwide and beyond.
 
 ## Prior Related HIPs
 
